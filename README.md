@@ -17,6 +17,9 @@ Support
 CRUD PRODUK
 -----
 
+![alt text](https://github.com/mobiledevelopt/arkademy/blob/master/assets/list.png)
+![alt text](https://github.com/mobiledevelopt/arkademy/blob/master/assets/add.png)
+![alt text](https://github.com/mobiledevelopt/arkademy/blob/master/assets/edit.png)
 ![alt text](https://github.com/mobiledevelopt/arkademy/blob/master/assets/delete.png)
 
 License

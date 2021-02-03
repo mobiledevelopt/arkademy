@@ -17,7 +17,7 @@ Support
 CRUD PRODUK
 -----
 
-![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FHTML&psig=AOvVaw3MCVjjLz0D6qSKX05MNbTX&ust=1612441852030000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNj-_ZDcze4CFQAAAAAdAAAAABAD)
+![alt text](https://github.com/mobiledevelopt/arkademy/blob/master/assets/delete.png)
 
 License
 -------

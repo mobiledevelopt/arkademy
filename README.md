@@ -1,3 +1,4 @@
+ARKADEMY
 LEVEL 3 - TUGAS 10
 =====================================
 
@@ -11,8 +12,6 @@ Pre-requisites
 
 Support
 -------
-
-- Stack Overflow: http://stackoverflow.com/questions/tagged/android
 
 CRUD PRODUK
 -----

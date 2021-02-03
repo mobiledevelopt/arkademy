@@ -1,8 +1,7 @@
-ERP HO
+LEVEL 3 - TUGAS 10
 =====================================
 
-Tujuan dari aplikasi ini adalah untuk membuat koperasi berbasi digital.
-
+Buatlah repl baru dengan bahasa apapun yang kalian bisa untuk membuat tugas sesuai keterangan berikut.
 
 
 Pre-requisites
@@ -15,8 +14,10 @@ Support
 
 - Stack Overflow: http://stackoverflow.com/questions/tagged/android
 
-ERP HO
+CRUD PRODUK
 -----
+
+![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FHTML&psig=AOvVaw3MCVjjLz0D6qSKX05MNbTX&ust=1612441852030000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNj-_ZDcze4CFQAAAAAdAAAAABAD)
 
 License
 -------
